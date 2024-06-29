@@ -1,6 +1,6 @@
 NODE_ENV=development
 PORT=5000
-DATABASE_URL=mongodb+srv://ph-uni:ph-1234d5@cluster0.3besjfn.mongodb.net/ph-university?retryWrites=true&w=majority
+DATABASE_URL=mongodb+srv://portfolio:portfolio-backend-pass@cluster0.3besjfn.mongodb.net/portfolio-data?retryWrites=true&w=majority
 DEFAULT_PASS=phuniversity!@#
 JWT_ACCESS_SECRET=2a8f7b1e9c4d0365af2b8e97d1c3a6c0
 JWT_REFRESH_SECRET=9a4e287bf3c6a0d81f4d2ebfb531a8d68f2d75c063bda13a98201d71f9e49e90

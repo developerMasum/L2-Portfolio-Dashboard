@@ -12,6 +12,12 @@ const blogSchema = new Schema<TBlog>(
     image: {
       type: String,
     },
+    category: {
+      type: String,
+    },
+    conclusion: {
+      type: String,
+    },
   },
   {
     timestamps: true,

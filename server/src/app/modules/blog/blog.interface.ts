@@ -4,6 +4,8 @@ export interface TBlog {
   title: string;
   des: string;
   image: string;
+  category: string;
+  conclusion: string;
 }
 
 // export interface BlogModel extends Model<TBlog> {
